@@ -22,3 +22,21 @@ h2{
   font-weight: 300;
   font-size: 42px;
 }
+
+p{
+  font-size: 21px;
+  color: gray;
+}
+
+.camp{
+  margin-bottom: 15px;
+}
+
+.icon{
+  margin: 20px;
+}
+
+.footer{
+  color:gray;
+  text-align: right;
+}
