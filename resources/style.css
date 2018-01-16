@@ -1,11 +1,24 @@
 /*Universal Styles*/
 body{
   background-color:black;
-}
-h1{
+  text-align:center;
   font-family: verdana;
+  align-content:center;
+}
+
+h1{
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
+}
+
+a{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2{
+  color:white;
+  font-weight: 300;
+  font-size: 42px;
 }
